@@ -19,6 +19,8 @@ A Flask web app that scans barcodes from images, decodes them, and fetches corre
 
 
 ## Demo
+![image](https://github.com/user-attachments/assets/5485c5c7-222a-4c96-b71a-78767a6fe56a)
+_____________________________________________________________________________________________________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/69d324c9-c0f5-4f3b-93ba-e9335040c4a1)
 ![image](https://github.com/user-attachments/assets/0a0193fc-b115-45d5-b38d-7ecacf20e306)
 ![image](https://github.com/user-attachments/assets/a4ceda51-635f-47ce-9b77-4f314d832dd1)
