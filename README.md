@@ -17,15 +17,6 @@ A Flask web app that scans barcodes from images, decodes them, and fetches corre
 - **JavaScript + HTML** – Frontend interaction
 - **Bootstrap** – Styling and responsiveness
 
-## 📦 Folder Structure
-
-project/
-│
-├── app.py # Main Flask application
-├── uploads/ # Uploaded barcode images
-├── templates/ # HTML templates (home.html, scanner.html)
-├── static/ # (Optional) static files like CSS/JS
-├── requirements.txt # Python dependencies
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/69d324c9-c0f5-4f3b-93ba-e9335040c4a1)
